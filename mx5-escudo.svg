@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="title">
+  <title id="title">SIMUSTOP MX-5 CUP</title>
+  <defs>
+    <linearGradient id="shield" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#18377a"/>
+      <stop offset="1" stop-color="#080f27"/>
+    </linearGradient>
+    <linearGradient id="type" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#fff"/>
+      <stop offset=".58" stop-color="#f2f7ff"/>
+      <stop offset="1" stop-color="#b6ccff"/>
+    </linearGradient>
+  </defs>
+  <path d="M54 45 104 19H376L426 45V206L381 262 240 306 99 262 54 206Z" fill="url(#shield)" stroke="#080c18" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M54 45 104 19H376L426 45V206L381 262 240 306 99 262 54 206Z" fill="none" stroke="#dce8ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M68 52 108 31H372L412 52V200L373 251 240 293 107 251 68 200Z" fill="none" stroke="#5279ff" stroke-width="4"/>
+  <path d="M87 86h306l-11 6H98Z" fill="#59baff"/>
+  <path d="M36 105H470L443 210H10Z" fill="#0a1022" stroke="#080c18" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M36 105H470L443 210H10Z" fill="#0e1833" stroke="#6e95ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m27 203 12-45h8l-12 45Zm9 0 12-45h8l-12 45Z" fill="#4074ff"/>
+  <path d="m432 113-11 43h8l11-43Zm9 0-11 43h8l11-43Z" fill="#4074ff"/>
+  <g text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900">
+    <text x="240" y="72" fill="#e9f3ff" font-size="35" letter-spacing="4">SIMUSTOP</text>
+    <text x="240" y="188" fill="url(#type)" font-size="100" font-style="italic" textLength="350" lengthAdjust="spacingAndGlyphs">MX-5</text>
+    <text x="245" y="251" fill="#fff" font-size="41" font-style="italic" letter-spacing="9">CUP</text>
+    <text x="240" y="279" fill="#a9c5ff" font-size="19" font-style="italic" letter-spacing="2">13XI</text>
+  </g>
+</svg>

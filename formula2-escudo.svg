@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="title">
+  <title id="title">PROCARS#1 FORMULA 2 ARGENTINA</title>
+  <defs>
+    <linearGradient id="body" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#223260"/>
+      <stop offset="1" stop-color="#080f22"/>
+    </linearGradient>
+  </defs>
+  <path d="M116 23H394L456 76 418 249 316 298H90L20 237 58 93Z" fill="url(#body)" stroke="#080c18" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M116 23H394L456 76 418 249 316 298H90L20 237 58 93Z" fill="none" stroke="#ecf1ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M124 35H390L443 81 406 241 313 285H95L34 233 70 101Z" fill="none" stroke="#627dff" stroke-width="4"/>
+  <path d="M75 92H470L435 209H10Z" fill="#080c18" stroke="#080c18" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M75 92H470L435 209H10Z" fill="#101c3b" stroke="#edf4ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m63 104 11 0-53 94h-11Zm13 0h10l-53 94h-10Z" fill="#5279ff"/>
+  <path d="m423 103-7 24h37l7-24Zm-10 32-5 16h38l5-16Z" fill="#5279ff"/>
+  <path d="M94 222H391L366 255H71Z" fill="#70c5f0"/>
+  <path d="M106 261H347l-24 7H99Z" fill="#f5f9ff"/>
+  <g font-family="Arial Black, Arial, sans-serif" font-weight="900" text-anchor="middle">
+    <text x="251" y="72" fill="#f4f7ff" font-size="34" letter-spacing="3">PROCARS#1</text>
+    <text x="198" y="176" fill="#fff" font-size="66" font-style="italic" textLength="260" lengthAdjust="spacingAndGlyphs">FORMULA</text>
+    <text x="370" y="191" fill="#92d9ff" font-size="121" font-style="italic">2</text>
+    <text x="227" y="246" fill="#081732" font-size="25" letter-spacing="6">ARGENTINA</text>
+    <text x="227" y="287" fill="#a9c5ff" font-size="18" font-style="italic" letter-spacing="2">13XI</text>
+  </g>
+</svg>
